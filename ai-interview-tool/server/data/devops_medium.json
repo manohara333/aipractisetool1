@@ -1,0 +1,12 @@
+[
+  "Explain how Jenkins pipeline works.",
+  "What is Infrastructure as Code?",
+  "How do you manage secrets in CI/CD?",
+  "What is a blue-green deployment?",
+  "Explain rolling update strategy.",
+  "What is Helm and why is it used?",
+  "How does Prometheus monitor applications?",
+  "What is GitOps?",
+  "Explain the difference between Ansible and Terraform.",
+  "How do you manage environment-specific configs in CI/CD?"
+]

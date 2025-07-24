@@ -1,0 +1,12 @@
+[
+  "How would you implement Disaster Recovery in AWS?",
+  "How do you manage high availability for applications on AWS?",
+  "What are the security best practices for AWS?",
+  "How do you design a scalable architecture in AWS?",
+  "How would you migrate a large enterprise system to AWS?",
+  "Explain NAT Gateway and its use.",
+  "How does AWS WAF protect your applications?",
+  "What is Global Accelerator and how does it improve performance?",
+  "Explain AWS Transit Gateway and when to use it.",
+  "What are lifecycle hooks in Auto Scaling?"
+]

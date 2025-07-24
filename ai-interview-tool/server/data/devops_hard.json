@@ -1,0 +1,12 @@
+[
+  "Explain a complex CI/CD pipeline you have designed.",
+  "How do you implement high availability in DevOps?",
+  "How do you handle deployment rollback strategies?",
+  "What are security challenges in DevOps and how do you address them?",
+  "What is Kubernetes and how is it used in production?",
+  "Explain service discovery in Kubernetes.",
+  "What is container orchestration?",
+  "How do you handle zero-downtime deployment?",
+  "What are Canary deployments and how do you implement them?",
+  "How do you handle secret management at scale?"
+]
